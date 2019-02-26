@@ -1,0 +1,8 @@
+A implantação funcionará com o auxílio da ferramenta GIT para efetuar o deploy de todo sistema de uma forma 
+
+controlada, onde apenas commits aprovados serão enviados para a branch master e o merge sendo feito em produção
+
+
+Para a implantação será criado documentos explicativos (documentações de software) para usuários finais onde teremos 
+
+funcionários responsáveis por toda parte de suporte ao usuário final e resolução de todas suas dúvidas
