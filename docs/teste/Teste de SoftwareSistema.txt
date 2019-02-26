@@ -1,0 +1,7 @@
+Será validado os casos de usos para cadastro de receitas mensais, onde será validado se a funcionalidade de clique 
+
+de botão efetua o envio das informações mesmo faltando preenchimento dos campos obrigatórios
+
+Será validado os casos de usos para geração de relatórios de gastos mensais, onde será validado se a funcionalidade 
+
+de envio para o devido e-mail cadastrado acontece e se este abre da devida forma
