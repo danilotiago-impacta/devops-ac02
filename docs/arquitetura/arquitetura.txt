@@ -1,0 +1,7 @@
+Será criado um servidor backend utilizando a stack da microsoft (microsoft azure) onde teremos um sistema 
+
+operacional linux e um banco de dados SQLServer, o servidor terá 5GB de RAM e todo armazenamento com SSD
+
+O controle de versão será utilizado a ferramenta GIT, onde a hospedagem do código fonte ficará nos repositórios do 
+
+GITHUB, onde o arquiteto de software fará a validação e aprovação do commit dos desenvolvedores
