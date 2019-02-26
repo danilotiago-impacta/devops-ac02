@@ -1,0 +1,7 @@
+Será criado uma tela para cadastro de receita mensal com HTML, executando a validação dos campos obrigatórios via 
+
+javascript e um botão na cor verde utilizando CSS para envio dos dados para o servidor.
+
+O backend será criado com Python usando o sistema operacional linux e o banco de dados com SQLServer onde será 
+
+criado todas as tabelas necessárias inclusive a tabela de usuários e a tabela de receitas mensais
