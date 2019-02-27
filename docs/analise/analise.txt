@@ -1,1 +1,5 @@
 A Análise funcional (requisitos funcionais) foi definida que o sistema deverá possuir uma funcionalidade de cadastro de receita mensal com com um botão verde onde deverá estar escrito "cadastrar receita mensal"
+
+Esta analise deve possuir um gerador de relatórios onde devemos ter um botão verde com o nome de "Exportar 
+
+relatório", este botão executará diversos processos em background e fará o envio para o e-mail do usuário logado
